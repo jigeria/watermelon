@@ -1,0 +1,145 @@
+{"timestamp":"2023-03-14 04:59:09","source":"Logger.js:104","message":"[PlaybackSessionManager] startSession: Closing open session \"TURTLES\" for user \"admin\" (Device: Mac OS 10.15.7 / Chrome)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 05:03:38","source":"Logger.js:104","message":"[Server] Socket Connected W-fe2TFMSHDNgfEfAAAB","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 05:03:39","source":"Logger.js:104","message":"[Server] Socket W-fe2TFMSHDNgfEfAAAB disconnected from client \"admin\" after 1404ms (Reason: transport close)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 05:03:40","source":"Logger.js:104","message":"[Server] Socket Connected uu5HzjBaWW5v8q7PAAAD","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 05:43:40","source":"Logger.js:104","message":"[Server] Socket uu5HzjBaWW5v8q7PAAAD disconnected from client \"admin\" after 2400198ms (Reason: transport close)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 05:43:41","source":"Logger.js:104","message":"[Server] Socket Connected kXXcBjnqd4Evtr_SAAAF","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 05:44:26","source":"Logger.js:104","message":"[Server] Socket kXXcBjnqd4Evtr_SAAAF disconnected from client \"admin\" after 44987ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 05:47:12","source":"Logger.js:104","message":"[Server] Socket Connected pA7cpBZctAZNmGWJAAAH","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 05:47:23","source":"Logger.js:104","message":"[Server] Socket Connected NESKWUk42_mrELvjAAAJ","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 05:47:57","source":"Logger.js:104","message":"[Server] Socket pA7cpBZctAZNmGWJAAAH disconnected from client \"admin\" after 44995ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 07:02:47","source":"Logger.js:104","message":"[Server] Socket NESKWUk42_mrELvjAAAJ disconnected from client \"admin\" after 4523998ms (Reason: transport close)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 07:02:49","source":"Logger.js:104","message":"[Server] Socket Connected pvhce9tv9QUjJ9PvAAAL","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 07:51:30","source":"Logger.js:104","message":"[Server] Socket pvhce9tv9QUjJ9PvAAAL disconnected from client \"admin\" after 2921022ms (Reason: transport close)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 07:51:34","source":"Logger.js:104","message":"[Server] Socket Connected jm7W9klQDCdOHq4hAAAN","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 07:52:19","source":"Logger.js:104","message":"[Server] Socket jm7W9klQDCdOHq4hAAAN disconnected from client \"admin\" after 44981ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 07:57:14","source":"Logger.js:104","message":"[Server] Socket Connected rgrARPsC_qWZISQUAAAP","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 09:04:45","source":"Logger.js:104","message":"[Server] Socket rgrARPsC_qWZISQUAAAP disconnected from client \"admin\" after 4050635ms (Reason: transport close)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 09:04:47","source":"Logger.js:104","message":"[Server] Socket Connected jMtpOeDwkR08fMtZAAAR","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 09:05:32","source":"Logger.js:104","message":"[Server] Socket jMtpOeDwkR08fMtZAAAR disconnected from client \"admin\" after 45013ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 09:06:11","source":"Logger.js:104","message":"[Server] Socket Connected Q_oPHqSSkGSHkqoEAAAT","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 09:06:39","source":"Logger.js:104","message":"[Server] Socket Q_oPHqSSkGSHkqoEAAAT disconnected from client \"admin\" after 28209ms (Reason: transport close)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 09:06:42","source":"Logger.js:104","message":"[Server] Socket Connected _SXXFpZoc5U7SpTgAAAV","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 09:07:38","source":"Logger.js:104","message":"[Server] Socket _SXXFpZoc5U7SpTgAAAV disconnected from client \"admin\" after 56258ms (Reason: transport close)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 09:11:27","source":"Logger.js:104","message":"[Server] Socket Connected V_s8vIfLxMNpztOeAAAX","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 09:12:37","source":"Logger.js:104","message":"[Server] Socket V_s8vIfLxMNpztOeAAAX disconnected from client \"admin\" after 70024ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 09:29:27","source":"Logger.js:104","message":"[Server] Socket Connected 6iUC_dZemycfzQVfAAAZ","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 09:30:37","source":"Logger.js:104","message":"[Server] Socket 6iUC_dZemycfzQVfAAAZ disconnected from client \"admin\" after 70034ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 09:39:46","source":"Logger.js:104","message":"[Server] Socket Connected lw9gmjmqmsiihDa_AAAb","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 09:40:31","source":"Logger.js:104","message":"[Server] Socket lw9gmjmqmsiihDa_AAAb disconnected from client \"admin\" after 45005ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 09:45:47","source":"Logger.js:104","message":"[Server] Socket Connected Cua-eWQFOYwfIbShAAAd","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 09:48:13","source":"Logger.js:104","message":"[Server] Socket Cua-eWQFOYwfIbShAAAd disconnected from client \"admin\" after 145187ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 10:02:34","source":"Logger.js:104","message":"[Server] Socket Connected 6oVYx3nNVe_TjyxzAAAf","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 10:03:19","source":"Logger.js:104","message":"[Server] Socket 6oVYx3nNVe_TjyxzAAAf disconnected from client \"admin\" after 45005ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 10:19:54","source":"Logger.js:104","message":"[Server] Socket Connected Ra8DmU5iIRl__U_dAAAh","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 10:21:29","source":"Logger.js:104","message":"[Server] Socket Ra8DmU5iIRl__U_dAAAh disconnected from client \"admin\" after 95050ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 10:32:40","source":"Logger.js:104","message":"[Server] Socket Connected ADgXO0Hj2Pkp9mAGAAAj","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 10:33:50","source":"Logger.js:104","message":"[Server] Socket ADgXO0Hj2Pkp9mAGAAAj disconnected from client \"admin\" after 70029ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 10:50:12","source":"Logger.js:104","message":"[Server] Socket Connected rOMxM1_IExtDXmDJAAAl","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 10:50:57","source":"Logger.js:104","message":"[Server] Socket rOMxM1_IExtDXmDJAAAl disconnected from client \"admin\" after 45015ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 10:58:27","source":"Logger.js:104","message":"[Server] Socket Connected FRmFVfdK6G0juxfhAAAn","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 10:59:12","source":"Logger.js:104","message":"[Server] Socket FRmFVfdK6G0juxfhAAAn disconnected from client \"admin\" after 44997ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 11:14:56","source":"Logger.js:104","message":"[Server] Socket Connected cFQx8Bz7rbzDCl9iAAAp","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 11:17:21","source":"Logger.js:104","message":"[Server] Socket cFQx8Bz7rbzDCl9iAAAp disconnected from client \"admin\" after 145069ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 11:30:48","source":"Logger.js:104","message":"[Server] Socket Connected 5FoTyYS_t-reFxgkAAAr","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 11:32:23","source":"Logger.js:104","message":"[Server] Socket 5FoTyYS_t-reFxgkAAAr disconnected from client \"admin\" after 95054ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 11:50:15","source":"Logger.js:104","message":"[Server] Socket Connected D2_AjiLIz3Uwo5lhAAAt","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 11:51:25","source":"Logger.js:104","message":"[Server] Socket D2_AjiLIz3Uwo5lhAAAt disconnected from client \"admin\" after 70019ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 11:54:11","source":"Logger.js:104","message":"[Server] Socket Connected d_N8-SjUApNeDnkzAAAv","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 11:54:56","source":"Logger.js:104","message":"[Server] Socket d_N8-SjUApNeDnkzAAAv disconnected from client \"admin\" after 44996ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 12:12:02","source":"Logger.js:104","message":"[Server] Socket Connected CGsb6PyCtYvIUTnMAAAx","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 12:12:47","source":"Logger.js:104","message":"[Server] Socket CGsb6PyCtYvIUTnMAAAx disconnected from client \"admin\" after 45018ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 12:28:05","source":"Logger.js:104","message":"[Server] Socket Connected qtA4tfmRShSbZ6coAAAz","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 12:29:15","source":"Logger.js:104","message":"[Server] Socket qtA4tfmRShSbZ6coAAAz disconnected from client \"admin\" after 70020ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 12:45:07","source":"Logger.js:104","message":"[Server] Socket Connected Qu0zbhGVQpnreG-TAAA1","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 12:45:52","source":"Logger.js:104","message":"[Server] Socket Qu0zbhGVQpnreG-TAAA1 disconnected from client \"admin\" after 44998ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 13:04:06","source":"Logger.js:104","message":"[Server] Socket Connected 60aAVDy2NBx2_tXUAAA3","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 13:06:06","source":"Logger.js:104","message":"[Server] Socket 60aAVDy2NBx2_tXUAAA3 disconnected from client \"admin\" after 120061ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 13:11:41","source":"Logger.js:104","message":"[Server] Socket Connected X6_FioOQZ1sW5z6MAAA5","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 13:12:26","source":"Logger.js:104","message":"[Server] Socket X6_FioOQZ1sW5z6MAAA5 disconnected from client \"admin\" after 44792ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 13:15:11","source":"Logger.js:104","message":"[Server] Socket Connected aozh_PtuB4qHZua0AAA7","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 13:16:53","source":"Logger.js:104","message":"[Server] Socket aozh_PtuB4qHZua0AAA7 disconnected from client \"admin\" after 101946ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 13:19:32","source":"Logger.js:104","message":"[Server] Socket Connected 8GfKlmAzN0rOlEs3AAA9","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 14:29:15","source":"Logger.js:104","message":"[Server] Socket 8GfKlmAzN0rOlEs3AAA9 disconnected from client \"admin\" after 4183425ms (Reason: transport close)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 14:29:18","source":"Logger.js:104","message":"[Server] Socket Connected m-ar96Ul_ODkXhsAAAA_","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 14:30:03","source":"Logger.js:104","message":"[Server] Socket m-ar96Ul_ODkXhsAAAA_ disconnected from client \"admin\" after 45002ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 14:48:29","source":"Logger.js:104","message":"[Server] Socket Connected b8hQscz-daJ8k3esAABB","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 14:49:39","source":"Logger.js:104","message":"[Server] Socket b8hQscz-daJ8k3esAABB disconnected from client \"admin\" after 70029ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 14:53:40","source":"Logger.js:104","message":"[Server] Socket Connected lnWke9v4qlzUpoW8AABD","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 14:55:40","source":"Logger.js:104","message":"[Server] Socket lnWke9v4qlzUpoW8AABD disconnected from client \"admin\" after 120000ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 15:13:02","source":"Logger.js:104","message":"[Server] Socket Connected DrV6XHR8aNxJpmU1AABF","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 15:13:47","source":"Logger.js:104","message":"[Server] Socket DrV6XHR8aNxJpmU1AABF disconnected from client \"admin\" after 45016ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 15:21:13","source":"Logger.js:104","message":"[Server] Socket Connected Dxgf259rJqG-5fwSAABH","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 15:21:58","source":"Logger.js:104","message":"[Server] Socket Dxgf259rJqG-5fwSAABH disconnected from client \"admin\" after 45009ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 15:22:08","source":"Logger.js:104","message":"[Server] Socket Connected 2YZSlnNO2xVmyF_kAABJ","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 15:23:43","source":"Logger.js:104","message":"[Server] Socket 2YZSlnNO2xVmyF_kAABJ disconnected from client \"admin\" after 95028ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 15:23:53","source":"Logger.js:104","message":"[Server] Socket Connected bePjMxud-m7_T-F-AABL","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 15:25:03","source":"Logger.js:104","message":"[Server] Socket bePjMxud-m7_T-F-AABL disconnected from client \"admin\" after 70005ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 15:29:25","source":"Logger.js:104","message":"[Server] Socket Connected LQSgi8aHG9FrQl5ZAABN","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 15:30:35","source":"Logger.js:104","message":"[Server] Socket LQSgi8aHG9FrQl5ZAABN disconnected from client \"admin\" after 70041ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 15:48:16","source":"Logger.js:104","message":"[Server] Socket Connected 9E_Y542BgMZsgwIHAABP","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 15:49:01","source":"Logger.js:104","message":"[Server] Socket 9E_Y542BgMZsgwIHAABP disconnected from client \"admin\" after 45016ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 15:52:37","source":"Logger.js:104","message":"[Server] Socket Connected lSXOnOPc-EX46nHzAABR","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 15:53:22","source":"Logger.js:104","message":"[Server] Socket lSXOnOPc-EX46nHzAABR disconnected from client \"admin\" after 45025ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 16:04:11","source":"Logger.js:104","message":"[Server] Socket Connected M5MYt_zGakx84FUfAABT","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 16:05:46","source":"Logger.js:104","message":"[Server] Socket M5MYt_zGakx84FUfAABT disconnected from client \"admin\" after 95065ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 16:21:50","source":"Logger.js:104","message":"[Server] Socket Connected mgz1nEqL8pYg4x85AABV","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 16:23:00","source":"Logger.js:104","message":"[Server] Socket mgz1nEqL8pYg4x85AABV disconnected from client \"admin\" after 70049ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 16:38:11","source":"Logger.js:104","message":"[Server] Socket Connected YYmLEFkvGIQYv7AtAABX","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 16:38:56","source":"Logger.js:104","message":"[Server] Socket YYmLEFkvGIQYv7AtAABX disconnected from client \"admin\" after 45003ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 16:55:00","source":"Logger.js:104","message":"[Server] Socket Connected h4CYZUEFNixgqFIlAABZ","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 16:55:45","source":"Logger.js:104","message":"[Server] Socket h4CYZUEFNixgqFIlAABZ disconnected from client \"admin\" after 45011ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 16:58:48","source":"Logger.js:104","message":"[Server] Socket Connected 3OaLdfJdLmYA2DoCAABb","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 16:59:33","source":"Logger.js:104","message":"[Server] Socket 3OaLdfJdLmYA2DoCAABb disconnected from client \"admin\" after 45003ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 17:16:43","source":"Logger.js:104","message":"[Server] Socket Connected z16xzgu-s5EAzfm9AABd","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 17:17:53","source":"Logger.js:104","message":"[Server] Socket z16xzgu-s5EAzfm9AABd disconnected from client \"admin\" after 70028ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 17:33:28","source":"Logger.js:104","message":"[Server] Socket Connected wp6bH4CErUgao6EiAABf","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 17:35:28","source":"Logger.js:104","message":"[Server] Socket wp6bH4CErUgao6EiAABf disconnected from client \"admin\" after 120061ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 17:53:06","source":"Logger.js:104","message":"[Server] Socket Connected a02lCitWuHCZKh6LAABh","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 17:53:51","source":"Logger.js:104","message":"[Server] Socket a02lCitWuHCZKh6LAABh disconnected from client \"admin\" after 45011ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 17:59:26","source":"Logger.js:104","message":"[Server] Socket Connected sYbON-cKspxrCUuDAABj","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 18:00:11","source":"Logger.js:104","message":"[Server] Socket sYbON-cKspxrCUuDAABj disconnected from client \"admin\" after 45021ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 18:32:24","source":"Logger.js:104","message":"[Server] Socket Connected NxZW4gFYDsAwlAP3AABl","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 18:33:59","source":"Logger.js:104","message":"[Server] Socket NxZW4gFYDsAwlAP3AABl disconnected from client \"admin\" after 95028ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 18:51:11","source":"Logger.js:104","message":"[Server] Socket Connected mLn8MuzYFhdAFAbcAABn","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 18:51:56","source":"Logger.js:104","message":"[Server] Socket mLn8MuzYFhdAFAbcAABn disconnected from client \"admin\" after 45018ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 19:07:12","source":"Logger.js:104","message":"[Server] Socket Connected u7l-gnsKrWmxf8CMAABp","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 19:08:22","source":"Logger.js:104","message":"[Server] Socket u7l-gnsKrWmxf8CMAABp disconnected from client \"admin\" after 70015ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 19:25:40","source":"Logger.js:104","message":"[Server] Socket Connected SLPWa66ojSuRxegbAABr","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 19:26:25","source":"Logger.js:104","message":"[Server] Socket SLPWa66ojSuRxegbAABr disconnected from client \"admin\" after 45013ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 19:42:03","source":"Logger.js:104","message":"[Server] Socket Connected XTLA_tnoM8lCB5NNAABt","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 19:42:48","source":"Logger.js:104","message":"[Server] Socket XTLA_tnoM8lCB5NNAABt disconnected from client \"admin\" after 45010ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 19:59:00","source":"Logger.js:104","message":"[Server] Socket Connected VGOrwdgybHcMCd_FAABv","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 19:59:45","source":"Logger.js:104","message":"[Server] Socket VGOrwdgybHcMCd_FAABv disconnected from client \"admin\" after 44989ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 20:14:50","source":"Logger.js:104","message":"[Server] Socket Connected bRviQ4htWzgESrgvAABx","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 20:15:35","source":"Logger.js:104","message":"[Server] Socket bRviQ4htWzgESrgvAABx disconnected from client \"admin\" after 45019ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 20:29:02","source":"Logger.js:104","message":"[Server] Socket Connected G9Cy9gwAJRVG3GOCAABz","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 20:30:13","source":"Logger.js:104","message":"[Server] Socket G9Cy9gwAJRVG3GOCAABz disconnected from client \"admin\" after 70042ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 20:45:29","source":"Logger.js:104","message":"[Server] Socket Connected PN91HDYCl0UexzDoAAB1","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 20:46:39","source":"Logger.js:104","message":"[Server] Socket PN91HDYCl0UexzDoAAB1 disconnected from client \"admin\" after 70028ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 21:00:58","source":"Logger.js:104","message":"[Server] Socket Connected p_UM_ctVGvWPu76KAAB3","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 21:02:08","source":"Logger.js:104","message":"[Server] Socket p_UM_ctVGvWPu76KAAB3 disconnected from client \"admin\" after 70033ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 21:18:02","source":"Logger.js:104","message":"[Server] Socket Connected iJAHpDZ_0dG4keweAAB5","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 21:18:47","source":"Logger.js:104","message":"[Server] Socket iJAHpDZ_0dG4keweAAB5 disconnected from client \"admin\" after 44997ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 21:34:46","source":"Logger.js:104","message":"[Server] Socket Connected y23G3mgueAjP3apWAAB7","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 21:35:31","source":"Logger.js:104","message":"[Server] Socket y23G3mgueAjP3apWAAB7 disconnected from client \"admin\" after 45002ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 21:52:38","source":"Logger.js:104","message":"[Server] Socket Connected r0hzHKIwFxmyXoPRAAB9","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 21:53:23","source":"Logger.js:104","message":"[Server] Socket r0hzHKIwFxmyXoPRAAB9 disconnected from client \"admin\" after 45024ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 22:10:55","source":"Logger.js:104","message":"[Server] Socket Connected 9S-6i_kQKQUuYXFsAAB_","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 22:11:40","source":"Logger.js:104","message":"[Server] Socket 9S-6i_kQKQUuYXFsAAB_ disconnected from client \"admin\" after 45002ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 22:27:23","source":"Logger.js:104","message":"[Server] Socket Connected XE61jnExmfItfEW-AACB","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 22:28:08","source":"Logger.js:104","message":"[Server] Socket XE61jnExmfItfEW-AACB disconnected from client \"admin\" after 45006ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 22:29:28","source":"Logger.js:104","message":"[Server] Socket Connected ysH_S7g7NMaQSN2FAACD","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 22:30:13","source":"Logger.js:104","message":"[Server] Socket ysH_S7g7NMaQSN2FAACD disconnected from client \"admin\" after 45002ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 22:46:02","source":"Logger.js:104","message":"[Server] Socket Connected iTIS0OE6yMuTLnTpAACF","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 22:46:47","source":"Logger.js:104","message":"[Server] Socket iTIS0OE6yMuTLnTpAACF disconnected from client \"admin\" after 45012ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 22:56:31","source":"Logger.js:104","message":"[Server] Socket Connected TeTz7EYxPlwO2E4IAACH","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 22:57:16","source":"Logger.js:104","message":"[Server] Socket TeTz7EYxPlwO2E4IAACH disconnected from client \"admin\" after 45025ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 23:05:01","source":"Logger.js:104","message":"[Server] Socket Connected zW7Z2jeG8IF2mu4GAACJ","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 23:06:11","source":"Logger.js:104","message":"[Server] Socket zW7Z2jeG8IF2mu4GAACJ disconnected from client \"admin\" after 70021ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 23:23:21","source":"Logger.js:104","message":"[Server] Socket Connected 2MFzY3aeGvBnN9H1AACL","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 23:24:31","source":"Logger.js:104","message":"[Server] Socket 2MFzY3aeGvBnN9H1AACL disconnected from client \"admin\" after 70022ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 23:39:33","source":"Logger.js:104","message":"[Server] Socket Connected FkFoDuFEiOplng15AACN","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 23:40:18","source":"Logger.js:104","message":"[Server] Socket FkFoDuFEiOplng15AACN disconnected from client \"admin\" after 45002ms (Reason: ping timeout)","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 23:56:41","source":"Logger.js:104","message":"[Server] Socket Connected d6D1ADnSHM85Atd6AACP","levelName":"INFO","level":2}
+{"timestamp":"2023-03-14 23:57:26","source":"Logger.js:104","message":"[Server] Socket d6D1ADnSHM85Atd6AACP disconnected from client \"admin\" after 45005ms (Reason: ping timeout)","levelName":"INFO","level":2}

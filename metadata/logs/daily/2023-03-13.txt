@@ -119,3 +119,37 @@
 {"timestamp":"2023-03-13 12:52:49","source":"Logger.js:104","message":"[Server] Socket Connected Aw6slHBgH9YxDh1nAAAB","levelName":"INFO","level":2}
 {"timestamp":"2023-03-13 12:52:52","source":"Logger.js:104","message":"[Server] Socket Aw6slHBgH9YxDh1nAAAB disconnected from client \"admin\" after 3628ms (Reason: transport close)","levelName":"INFO","level":2}
 {"timestamp":"2023-03-13 12:52:53","source":"Logger.js:104","message":"[Server] Socket Connected 86xz2-M3P5cN36GGAAAD","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 12:55:01","source":"Logger.js:104","message":"=== Starting Server ===","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 12:55:01","source":"Logger.js:104","message":"[Server] Init v2.2.16","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 12:55:01","source":"Logger.js:104","message":"[DB] 0 Collections Loaded","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 12:55:01","source":"Logger.js:104","message":"[DB] 0 Playlists Loaded","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 12:55:01","source":"Logger.js:104","message":"[DB] 0 Authors Loaded","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 12:55:01","source":"Logger.js:104","message":"[DB] 0 Series Loaded","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 12:55:01","source":"Logger.js:104","message":"[DB] 3 Library Items Loaded","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 12:55:01","source":"Logger.js:104","message":"[DB] 1 Users Loaded","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 12:55:01","source":"Logger.js:104","message":"[DB] 1 Libraries Loaded","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 12:55:01","source":"Logger.js:104","message":"[BackupManager] 0 Backups Found","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 12:55:01","source":"Logger.js:104","message":"[BackupManager] Auto Backups are disabled","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 12:55:01","source":"Logger.js:104","message":"[LogManager] Init current daily log filename: 2023-03-13.txt","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 12:55:01","source":"Logger.js:104","message":"[Watcher] Initializing watcher for \"test\".","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 12:55:01","source":"Logger.js:104","message":"Listening on port :80","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 12:55:01","source":"Logger.js:104","message":"[Watcher] \"test\" Ready","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 12:57:06","source":"Logger.js:110","message":"[Auth] Failed login attempt 1 of 10 from 1.229.180.178","levelName":"WARN","level":3}
+{"timestamp":"2023-03-13 12:57:10","source":"Logger.js:116","message":"Api called without a token /534323e22363e2435313e2932313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties","levelName":"ERROR","level":4}
+{"timestamp":"2023-03-13 12:57:10","source":"Logger.js:116","message":"Api called without a token /search","levelName":"ERROR","level":4}
+{"timestamp":"2023-03-13 12:57:15","source":"Logger.js:116","message":"Api called without a token /534323e22363e2435313e2932313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties","levelName":"ERROR","level":4}
+{"timestamp":"2023-03-13 12:57:15","source":"Logger.js:116","message":"Api called without a token /search","levelName":"ERROR","level":4}
+{"timestamp":"2023-03-13 13:11:29","source":"Logger.js:104","message":"[Server] 2 Files Changed","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 13:11:29","source":"Logger.js:104","message":"[Scanner] No important changes to scan for in folder \"fol_tuvs2mru5pywzinmmt\"","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 13:11:53","source":"Logger.js:104","message":"[Server] 2 Files Changed","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 13:11:53","source":"Logger.js:104","message":"[Scanner] No important changes to scan for in folder \"fol_tuvs2mru5pywzinmmt\"","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 13:12:07","source":"Logger.js:104","message":"[Server] 4 Files Changed","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 13:12:07","source":"Logger.js:104","message":"[Scanner] No important changes to scan for in folder \"fol_tuvs2mru5pywzinmmt\"","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 13:13:03","source":"Logger.js:104","message":"[Server] 2 Files Changed","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 13:13:03","source":"Logger.js:104","message":"[Scanner] No important changes to scan for in folder \"fol_tuvs2mru5pywzinmmt\"","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 13:13:58","source":"Logger.js:104","message":"[Server] 1 Files Changed","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 13:14:04","source":"Logger.js:104","message":"[Server] 1 Files Changed","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 13:14:04","source":"Logger.js:104","message":"[Scanner] No important changes to scan for in folder \"fol_tuvs2mru5pywzinmmt\"","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 13:15:19","source":"Logger.js:104","message":"[Server] 2 Files Changed","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 13:15:19","source":"Logger.js:104","message":"[Scanner] No important changes to scan for in folder \"fol_tuvs2mru5pywzinmmt\"","levelName":"INFO","level":2}
+{"timestamp":"2023-03-13 13:15:38","source":"Logger.js:104","message":"[Server] 2 Files Changed","levelName":"INFO","level":2}
