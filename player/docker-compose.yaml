@@ -5,7 +5,7 @@ services:
     ports:
       - 13378:80
     volumes:
-      - ${PWD}/audiobooks:/audiobooks
-      - ${PWD}/podcasts:/podcasts
-      - ${PWD}/config:/config
-      - ${PWD}/metadata:/metadata
+      - ./audiobooks:/audiobooks
+      - ./podcasts:/podcasts
+      - ./config:/config
+      - ./metadata:/metadata
