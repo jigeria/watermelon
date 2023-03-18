@@ -1,0 +1,77 @@
+{
+  "YoutubeDLMaterial": {
+    "Host": {
+      "url": "http://example.com",
+      "port": "17442"
+    },
+    "Downloader": {
+      "path-audio": "audio/",
+      "path-video": "video/",
+      "default_file_output": "",
+      "use_youtubedl_archive": false,
+      "custom_args": "",
+      "safe_download_override": false,
+      "include_thumbnail": true,
+      "include_metadata": true,
+      "max_concurrent_downloads": 5,
+      "download_rate_limit": ""
+    },
+    "Extra": {
+      "title_top": "YoutubeDL-Material",
+      "file_manager_enabled": true,
+      "allow_quality_select": true,
+      "download_only_mode": false,
+      "allow_autoplay": true,
+      "enable_downloads_manager": true,
+      "allow_playlist_categorization": true
+    },
+    "API": {
+      "use_API_key": true,
+      "API_key": "9a49884a-ffe7-4d4e-8ccd-6a313e31c760",
+      "use_youtube_API": false,
+      "youtube_API_key": "",
+      "use_twitch_API": false,
+      "twitch_client_ID": "",
+      "twitch_client_secret": "",
+      "twitch_auto_download_chat": false,
+      "use_sponsorblock_API": false,
+      "generate_NFO_files": false
+    },
+    "Themes": {
+      "default_theme": "default",
+      "allow_theme_change": true
+    },
+    "Subscriptions": {
+      "allow_subscriptions": true,
+      "subscriptions_base_path": "subscriptions/",
+      "subscriptions_check_interval": "86400",
+      "redownload_fresh_uploads": false
+    },
+    "Users": {
+      "base_path": "users/",
+      "allow_registration": true,
+      "auth_method": "internal",
+      "ldap_config": {
+        "url": "ldap://localhost:389",
+        "bindDN": "cn=root",
+        "bindCredentials": "secret",
+        "searchBase": "ou=passport-ldapauth",
+        "searchFilter": "(uid={{username}})"
+      }
+    },
+    "Database": {
+      "use_local_db": false,
+      "mongodb_connection_string": "mongodb://ytdl-mongo-db:27017"
+    },
+    "Advanced": {
+      "default_downloader": "yt-dlp",
+      "use_default_downloading_agent": true,
+      "custom_downloading_agent": "",
+      "multi_user_mode": false,
+      "allow_advanced_download": false,
+      "use_cookies": false,
+      "jwt_expiration": 86400,
+      "logger_level": "info"
+    }
+  }
+}
