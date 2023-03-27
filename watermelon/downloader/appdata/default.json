@@ -1,7 +1,7 @@
 {
   "YoutubeDLMaterial": {
     "Host": {
-      "url": "http://example.com",
+      "url": "http://download.com",
       "port": "17442"
     },
     "Downloader": {
@@ -18,16 +18,16 @@
     },
     "Extra": {
       "title_top": "YoutubeDL-Material",
-      "file_manager_enabled": false,
-      "allow_quality_select": false,
-      "download_only_mode": true,
-      "allow_autoplay": false,
-      "enable_downloads_manager": false,
+      "file_manager_enabled": true,
+      "allow_quality_select": true,
+      "download_only_mode": false,
+      "allow_autoplay": true,
+      "enable_downloads_manager": true,
       "allow_playlist_categorization": true
     },
     "API": {
       "use_API_key": true,
-      "API_key": "7aee05f0-61e6-45c9-8ce7-e2b8544e9905",
+      "API_key": "cafe0a23-28b3-46c8-b3bc-093694898c2b",
       "use_youtube_API": false,
       "youtube_API_key": "",
       "use_twitch_API": false,
@@ -38,7 +38,7 @@
       "generate_NFO_files": false
     },
     "Themes": {
-      "default_theme": "dark",
+      "default_theme": "default",
       "allow_theme_change": true
     },
     "Subscriptions": {

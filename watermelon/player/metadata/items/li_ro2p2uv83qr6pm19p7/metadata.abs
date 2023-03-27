@@ -1,5 +1,5 @@
 ;ABMETADATA2
-#audiobookshelf v2.2.16
+#audiobookshelf v2.2.17
 
 media=book
 tags=[]
@@ -18,13 +18,401 @@ explicit=N
 
 [CHAPTER]
 start=0
-end=195.36
-title=Christopher, CHUNG HA (크리스토퍼, 청하) - When I Get Old
+end=186.864
+title=NewJeans Ditto Lyrics (뉴진스 Ditto 가사) (Color Coded Lyrics)
 [CHAPTER]
-start=195.36
-end=473.35200000000003
-title=Zior Park - CHRISTIAN (OFFICIAL VIDEO)
+start=186.864
+end=391.368
+title=BSS (SEVENTEEN) Fighting (feat. Lee Young Ji) Lyrics (부석순 이영지 '파이팅 해야지' 가사) (Color Coded Lyrics)
 [CHAPTER]
-start=473.35200000000003
-end=730.248
-title=Maroon 5 - Sugar (Karaoke Version)
+start=391.368
+end=579.96
+title=Charlie Puth - I Don’t Think That I Like Her (Lyrics)
+[CHAPTER]
+start=579.96
+end=837.096
+title=DK(디셈버) - 심(心)  ⧸ Kpop ⧸ Lyrics ⧸ 가사
+[CHAPTER]
+start=837.096
+end=1032.744
+title=IVE Kitsch Lyrics (아이브 Kitsch 가사) (Color Coded Lyrics)
+[CHAPTER]
+start=1032.744
+end=1209.144
+title=NewJeans (뉴진스) – Hype Boy Lyrics (Color Coded Han⧸Rom⧸Eng)
+[CHAPTER]
+start=1209.144
+end=1387.032
+title=NewJeans Attention Lyrics (뉴진스 Attention 가사) (Color Coded Lyrics)
+[CHAPTER]
+start=1387.032
+end=1599.36
+title=NewJeans OMG Lyrics (뉴진스 OMG 가사) (Color Coded Lyrics)
+[CHAPTER]
+start=1599.36
+end=1789.5359999999998
+title=STAYC Teddy Bear Lyrics (스테이씨 Teddy Bear 가사) (Color Coded Lyrics)
+[CHAPTER]
+start=1789.5359999999998
+end=2010.648
+title=Zior Park - CHRISTIAN [가사번역⧸English Lyrics]
+[CHAPTER]
+start=2010.648
+end=2196.984
+title=우디(Woody) - Nostalgia ｜ 가사
+[CHAPTER]
+start=2196.984
+end=2498.136
+title=윤하(YOUNHA) - 사건의 지평선 [가사⧸Lyrics]
+[CHAPTER]
+start=2498.136
+end=2770.848
+title=임영웅 - 사랑은 늘 도망가 ｜｜ 가사
+[CHAPTER]
+start=2770.848
+end=2991.048
+title=지아 - 사랑하기싫어 ⧸ 가사
+[CHAPTER]
+start=2991.048
+end=3178.4399999999996
+title=IVE After LIKE Lyrics (아이브 After LIKE 가사) [Color Coded Lyrics⧸Han⧸Rom⧸Eng]
+[CHAPTER]
+start=3178.4399999999996
+end=3390.6959999999995
+title=JIMIN Like Crazy Lyrics (지민 Like Crazy 가사) (Color Coded Lyrics)
+[CHAPTER]
+start=3390.6959999999995
+end=3575.7359999999994
+title=LE SSERAFIM 'ANTIFRAGILE' Lyrics (레세라핌 ANTIFRAGILE 가사) (Color Coded Lyrics)
+[CHAPTER]
+start=3575.7359999999994
+end=3790.4879999999994
+title=j-hope & J.Cole 'on the street' Lyrics (Color Coded Lyrics)
+[CHAPTER]
+start=3790.4879999999994
+end=4065.9119999999994
+title=임영웅 - 다시 만날 수 있을까 ⧸ 가사
+[CHAPTER]
+start=4065.9119999999994
+end=4277.664
+title=임영웅 - 우리들의 블루스 ⧸ 가사
+[CHAPTER]
+start=4277.664
+end=4454.1359999999995
+title=IVE 'LOVE DIVE' Lyrics (아이브 LOVE DIVE 가사) (Color Coded Lyrics)
+[CHAPTER]
+start=4454.1359999999995
+end=4743.143999999999
+title=Lim Young Woong (임영웅) - London Boy (런던 보이) Color Coded Lyrics⧸가사 [Han｜Rom｜Eng]
+[CHAPTER]
+start=4743.143999999999
+end=4951.295999999999
+title='임영웅 (Lim Young Woong) - 폴라로이드 (Polaroid)' 가사 Official Lyrics Video
+[CHAPTER]
+start=4951.295999999999
+end=5162.303999999999
+title=imase ⧸ ナイトダンサー (Night Dancer) Lyrics [Kan_Rom_Eng]
+[CHAPTER]
+start=5162.303999999999
+end=5360.351999999999
+title=임영웅 - 무지개 ｜ 가사 (Synced Lyrics)
+[CHAPTER]
+start=5360.351999999999
+end=5634.335999999999
+title=임영웅 - 이제 나만 믿어요 (Piano by 조영수) ⧸ 가사
+[CHAPTER]
+start=5634.335999999999
+end=5811.431999999999
+title=TAEYANG 'VIBE (feat. BTS JIMIN)' Lyrics (태양 지민 VIBE 가사) (Color Coded Lyrics)
+[CHAPTER]
+start=5811.431999999999
+end=5996.8319999999985
+title=멜로망스(Melomance) - 사랑인가 봐 [사내맞선 OST] [가사⧸Lyrics]
+[CHAPTER]
+start=5996.8319999999985
+end=6236.879999999998
+title=임영웅 - 아버지 ｜ 가사 (Synced Lyrics)
+[CHAPTER]
+start=6236.879999999998
+end=6435.047999999998
+title=Charlie Puth - Dangerously (Lyrics)
+[CHAPTER]
+start=6435.047999999998
+end=6655.127999999998
+title=NCT DREAM Candy Lyrics (엔시티 드림 Candy 가사) (Color Coded Lyrics)
+[CHAPTER]
+start=6655.127999999998
+end=6913.175999999998
+title=임영웅 - A bientot ｜ 가사 (Synced Lyrics)
+[CHAPTER]
+start=6913.175999999998
+end=7154.231999999997
+title=임영웅 - 사랑해 진짜 ｜ 가사 (Synced Lyrics)
+[CHAPTER]
+start=7154.231999999997
+end=7351.271999999997
+title=임영웅 - 손이 참 곱던 그대 ｜ 가사 (Synced Lyrics)
+[CHAPTER]
+start=7351.271999999997
+end=7586.327999999997
+title=임영웅 - 인생찬가 ｜ 가사 (Synced Lyrics)
+[CHAPTER]
+start=7586.327999999997
+end=7783.943999999997
+title=BTS Dynamite Lyrics (Color Coded Lyrics)
+[CHAPTER]
+start=7783.943999999997
+end=8024.591999999997
+title=너의 모든 순간 - 성시경 ⧸ 가사
+[CHAPTER]
+start=8024.591999999997
+end=8241.623999999996
+title=임영웅 - 연애편지 ｜ 가사 (Synced Lyrics)
+[CHAPTER]
+start=8241.623999999996
+end=8421.695999999996
+title=(G)I-DLE Nxde Lyrics ((여자)아이들 Nxde 가사) (Color Coded Lyrics)
+[CHAPTER]
+start=8421.695999999996
+end=8695.823999999997
+title=BTS (방탄소년단) 'Spring Day' (봄날) 🌸 Lyrics [Color Coded Han_Rom_Eng]
+[CHAPTER]
+start=8695.823999999997
+end=8842.319999999996
+title=Charlie Puth - That's Hilarious (Lyrics)
+[CHAPTER]
+start=8842.319999999996
+end=9081.287999999997
+title=JuJu Secret (주주 시크릿) - Lonely Night (밤이 무서워요) Lyrics⧸가사 [Han｜Rom｜Eng]
+[CHAPTER]
+start=9081.287999999997
+end=9296.903999999997
+title=우디(Woody) - Say I Love You ｜ 가사
+[CHAPTER]
+start=9296.903999999997
+end=9532.847999999996
+title=BIG Naughty (서동현) - 사랑이라 믿었던 것들은 (Feat. 이수현) [호프리스 로맨틱]ㅣLyrics⧸가사
+[CHAPTER]
+start=9532.847999999996
+end=9758.735999999997
+title=송하예 (Song HaYea) - 너를 보는게 지친 하루에 ⧸ Kpop⧸Lyrics⧸가사
+[CHAPTER]
+start=9758.735999999997
+end=10022.471999999998
+title=테이- Monologue ⧸ 가사
+[CHAPTER]
+start=10022.471999999998
+end=10196.519999999999
+title=임영웅 - 보금자리 ｜ 가사 (Synced Lyrics)
+[CHAPTER]
+start=10196.519999999999
+end=10431.287999999999
+title=NewJeans (뉴진스) 'Cookie' Lyrics (Color Coded Lyrics)
+[CHAPTER]
+start=10431.287999999999
+end=10602.383999999998
+title=BTS Butter Lyrics (방탄소년단 Butter 가사) [Color Coded Lyrics⧸Eng]
+[CHAPTER]
+start=10602.383999999998
+end=10742.135999999999
+title=The Kid LAROI, Justin Bieber - Stay (Lyrics)
+[CHAPTER]
+start=10742.135999999999
+end=10994.087999999998
+title=WSG WANNABE GAYA-G (WSG워너비 가야G) - To You (결국엔 너에게 닿아서) Lyrics⧸가사 [Han｜Rom｜Eng]
+[CHAPTER]
+start=10994.087999999998
+end=11252.471999999998
+title=멜로망스 - 취중고백 ⧸ 가사
+[CHAPTER]
+start=11252.471999999998
+end=11457.815999999997
+title=정효빈 -  혼자가 아닌 나
+[CHAPTER]
+start=11457.815999999997
+end=11642.111999999997
+title=PSY That That Lyrics (prod. & feat. SUGA of BTS) (싸이 슈가 That That 가사) [Color Coded Lyrics]
+[CHAPTER]
+start=11642.111999999997
+end=11818.607999999997
+title=BLACKPINK Shut Down Lyrics (블랙핑크 Shut Down 가사) (Color Coded Lyrics)
+[CHAPTER]
+start=11818.607999999997
+end=11974.391999999996
+title=Sam Smith - Unholy (Lyrics) ft. Kim Petras
+[CHAPTER]
+start=11974.391999999996
+end=12229.487999999996
+title=주호 - 내가 아니라도 [가사]
+[CHAPTER]
+start=12229.487999999996
+end=12403.823999999995
+title=(G)I-DLE 'TOMBOY' Lyrics ((여자)아이들 TOMBOY 가사) (Color Coded Lyrics)
+[CHAPTER]
+start=12403.823999999995
+end=12665.927999999994
+title=김민석 (멜로망스) - 너와 함께ㅣ[Lyrics ⧸ 가사]
+[CHAPTER]
+start=12665.927999999994
+end=12835.007999999994
+title=LE SSERAFIM FEARLESS Lyrics (르세라핌 FEARLESS 가사) (Color Coded Lyrics)
+[CHAPTER]
+start=12835.007999999994
+end=13021.727999999994
+title=TXT Sugar Rush Ride Lyrics (Color Coded Lyrics)
+[CHAPTER]
+start=13021.727999999994
+end=13251.431999999993
+title=JIMIN Face-off Lyrics (Color Coded Lyrics)
+[CHAPTER]
+start=13251.431999999993
+end=13433.999999999993
+title=STAYC 스테이씨 ＂ POPPY (Korean Ver.) ＂ Lyrics (ColorCoded⧸ENG⧸HAN⧸ROM⧸가사)
+[CHAPTER]
+start=13433.999999999993
+end=13617.383999999993
+title=BLACKPINK Pink Venom Lyrics (블랙핑크 Pink Venom 가사) (Color Coded Lyrics)
+[CHAPTER]
+start=13617.383999999993
+end=13813.943999999992
+title=BTS Permission to Dance Lyrics (방탄소년단 Permission to Dance 가사) [Color Coded Lyrics⧸Eng]
+[CHAPTER]
+start=13813.943999999992
+end=13991.351999999992
+title=Crush 'Rush Hour (feat. j-hope of BTS)' Lyrics (크러쉬 제이홉 Rush Hour 가사) (Color Coded Lyrics)
+[CHAPTER]
+start=13991.351999999992
+end=14258.855999999992
+title=WSG WANNABE Gaya_G (WSG워너비 가야G) - At That Moment 그때 그 순간 그대로 (그그그) (놀면 뭐하니？) Lyrics⧸가사 [Han｜Rom｜Eng]
+[CHAPTER]
+start=14258.855999999992
+end=14522.567999999992
+title=경서예지 X 전건호 - 다정히 내 이름을 부르면 ⧸ 가사
+[CHAPTER]
+start=14522.567999999992
+end=14729.447999999991
+title=윤하(YOUNHA) - 오르트구름 [가사⧸Lyrics]
+[CHAPTER]
+start=14729.447999999991
+end=14921.32799999999
+title=Anne-Marie, 민니 ((여자)아이들) - Expectations [Lyric Video]
+[CHAPTER]
+start=14921.32799999999
+end=15099.383999999991
+title=IVE 'ELEVEN' Lyrics (아이브 ELEVEN 가사) (Color Coded Lyrics)
+[CHAPTER]
+start=15099.383999999991
+end=15310.751999999991
+title=JIMIN 'Alone' Lyrics (Color Coded Lyrics)
+[CHAPTER]
+start=15310.751999999991
+end=15499.63199999999
+title=NMIXX Love Me Like This Lyrics (엔믹스  Love Me Like This 가사) (Color Coded Lyrics)
+[CHAPTER]
+start=15499.63199999999
+end=15710.27999999999
+title=Paul Kim (폴킴) - 'Every day, Every Moment' (모든 날, 모든 순간) [Lyrics Eng⧸Rom⧸Han⧸가사]
+[CHAPTER]
+start=15710.27999999999
+end=15927.47999999999
+title=송하예 - 그대를 알고 ⧸ Kpop ⧸ Lyrics ⧸ 가사
+[CHAPTER]
+start=15927.47999999999
+end=16132.72799999999
+title=경서 - 나의 X에게 ｜｜ 가사
+[CHAPTER]
+start=16132.72799999999
+end=16377.64799999999
+title=신예영 - 마지막 사랑 ⧸ Kpop ⧸ Lyrics ⧸ 가사
+[CHAPTER]
+start=16377.64799999999
+end=16631.37599999999
+title=주호(Juho) - 잘가요(Goodbye) ⧸ Kpop ⧸ Lyrics ⧸ 가사
+[CHAPTER]
+start=16631.37599999999
+end=16788.119999999988
+title=Justin Bieber  -  Off My Face (Lyrics)
+[CHAPTER]
+start=16788.119999999988
+end=17057.807999999986
+title=[Official Audio] 먼데이 키즈 - 되돌리다 Monday Kiz - Return 가사⧸Lyrics
+[CHAPTER]
+start=17057.807999999986
+end=17304.455999999987
+title=신예영 - 네가 보고 싶은 건 자연스러운 거겠지 ⧸ Kpop ⧸ Lyrics ⧸ 가사
+[CHAPTER]
+start=17304.455999999987
+end=17499.743999999988
+title=BE'O (비오) - 자격지심 (Feat. ZICO) [FIVE SENSES]ㅣLyrics⧸가사
+[CHAPTER]
+start=17499.743999999988
+end=17709.743999999988
+title=이홍기(FT아일랜드) - 아모르 파티 [가사⧸Lyrics]
+[CHAPTER]
+start=17709.743999999988
+end=17983.559999999987
+title=임창정 (Im ChangJung) - 그대라는 사치(Amazing You) ⧸ Kpop⧸Lyrics⧸가사
+[CHAPTER]
+start=17983.559999999987
+end=18157.247999999985
+title=BE'O (비오) - LOVE me [LOVE me]ㅣLyrics⧸가사
+[CHAPTER]
+start=18157.247999999985
+end=18359.663999999986
+title=BTS Yet To Come Lyrics (방탄소년단 Yet To Come 가사) [Color Coded Lyrics⧸Han⧸Rom⧸Eng]
+[CHAPTER]
+start=18359.663999999986
+end=18618.719999999987
+title=김호중  - 그중에 그대를 만나 ⧸ 가사
+[CHAPTER]
+start=18618.719999999987
+end=18814.223999999987
+title=H1-KEY (하이키) – Rose Blossom (건물 사이에 피어난 장미) Lyrics (Color Coded Han⧸Rom⧸Eng)
+[CHAPTER]
+start=18814.223999999987
+end=19050.743999999988
+title=이영지 - NOT SORRY (Feat. pH-1) (Prod. by Slom) [쇼미더머니 11 Episode 3]ㅣLyrics⧸가사
+[CHAPTER]
+start=19050.743999999988
+end=19251.76799999999
+title=Jimin Set Me Free Pt.2 Lyrics (지민 Set Me Free Pt.2 가사) (Color Coded Lyrics)
+[CHAPTER]
+start=19251.76799999999
+end=19399.41599999999
+title=지코 (ZICO) - 새삥 (Prod. ZICO) (Feat. 호미들) [스트릿 맨 파이터(SMF) Original Vol.3 (계급미션)]ㅣLyrics⧸가사
+[CHAPTER]
+start=19399.41599999999
+end=19586.25599999999
+title=BIGBANG 'Still Life' Lyrics (빅뱅 봄여름가을겨울 가사) (Color Coded Lyrics)
+[CHAPTER]
+start=19586.25599999999
+end=19848.62399999999
+title=포맨 (4MEN) - 나비무덤 ⧸ Kpop ⧸ Lyrics ⧸ 가사
+[CHAPTER]
+start=19848.62399999999
+end=20050.19999999999
+title=10CM - 그라데이션 [가사⧸Lyrics]
+[CHAPTER]
+start=20050.19999999999
+end=20239.12799999999
+title=BIG Naughty (서동현) - 정이라고 하자 (Feat. 10CM) [정이라고 하자]ㅣLyrics⧸가사
+[CHAPTER]
+start=20239.12799999999
+end=20434.89599999999
+title=10CM, BIG Naughty (서동현) - 딱 10CM만 [딱 10CM만]ㅣLyrics⧸가사
+[CHAPTER]
+start=20434.89599999999
+end=20683.05599999999
+title=경서 - 밤하늘의 별을 (2020) ⧸ 가사
+[CHAPTER]
+start=20683.05599999999
+end=20921.207999999988
+title=#안녕 - 해요 (2022) ⧸Kpop ⧸ Lyrics ⧸ 가사
+[CHAPTER]
+start=20921.207999999988
+end=21120.98399999999
+title=BTS Jungkook - Dreamers Lyrics (FIFA World Cup 2022 Official Soundtrack)
+[CHAPTER]
+start=21120.98399999999
+end=21395.95199999999
+title=최유리 - 그댄 행복에 살텐데 (2022) ⧸ Kpop ⧸ Lyrics ⧸ 가사
