@@ -7,5 +7,5 @@
 *.abs
 *.mp3
 */audiobooks/
-*/downloader/*
-*/player/*
+*/downloader
+*/player
