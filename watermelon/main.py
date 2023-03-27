@@ -19,7 +19,7 @@ app = typer.Typer()
 def sync_top100(
     melon_url: str = "https://www.melon.com/chart/index.htm",
     downloader_url: str = "http://localhost:8998",
-    downloader_api: str = "cafe0a23-28b3-46c8-b3bc-093694898c2b",
+    downloader_api: str = "30672640-c0ee-4e69-bd1c-bf11f208de65",
     player_url: str = "http://localhost:13378",
     audio_save_dir: str = "./watermelon/player/audiobooks/top100",
 ):
