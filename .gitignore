@@ -9,3 +9,4 @@
 */audiobooks/
 */downloader
 */player
+*__pycache__
